@@ -55,5 +55,8 @@ python3 plot_af.py -csv Chr_6_pileup_allele_frequencies.csv -contig 6 -spline Tr
 python3 plot_af.py -csv Chr_X_pileup_allele_frequencies.csv -contig X -spline True -read_depth True
 ```
 
-## Example Plot
+### Example Allele Frequency Plot
 ![alt text](https://github.com/mohamedfaisa1/Detecting-Meiotic-Drive-in-Drosophila-Virilis-from-Pooled-Sequencing-Data/blob/main/data/Chr_4_allele_frequencies.png?raw=true)
+
+### Example Read Depth Plot
+![alt text](https://github.com/mohamedfaisa1/Detecting-Meiotic-Drive-in-Drosophila-Virilis-from-Pooled-Sequencing-Data/blob/main/data/Chr_4_read_depth.png?raw=true)
