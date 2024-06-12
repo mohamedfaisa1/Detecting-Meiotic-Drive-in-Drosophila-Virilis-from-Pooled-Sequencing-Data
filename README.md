@@ -40,7 +40,7 @@ Command-line arguments:
 - `-o`: the name of the outputted plot 
 
 
-## Data files
+## Data Files
 
 All data files can be found in this repository except the VCF and BAM files which can be found [here](https://drive.google.com/drive/folders/12b6tt0ZwQcZcno0uxiFK3C9PocLqxRFY?usp=sharing). 
 
@@ -52,5 +52,8 @@ python3 plot_af.py -csv Chr_3_pileup_allele_frequencies.csv -contig 3 -spline Tr
 python3 plot_af.py -csv Chr_4_pileup_allele_frequencies.csv -contig 4 -spline True -read_depth True 
 python3 plot_af.py -csv Chr_5_pileup_allele_frequencies.csv -contig 5 -spline True -read_depth True 
 python3 plot_af.py -csv Chr_6_pileup_allele_frequencies.csv -contig 6 -spline True -read_depth True 
-python3 plot_af.py -csv Chr_X_pileup_allele_frequencies.csv -contig X -spline True -read_depth True  
+python3 plot_af.py -csv Chr_X_pileup_allele_frequencies.csv -contig X -spline True -read_depth True
 ```
+
+## Example Plot
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/mohamedfaisa1/Detecting-Meiotic-Drive-in-Drosophila-Virilis-from-Pooled-Sequencing-Data/blob/main/data/Chr_4_allele_frequencies.png))
