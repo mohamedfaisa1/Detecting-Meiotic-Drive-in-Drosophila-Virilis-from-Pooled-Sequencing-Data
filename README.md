@@ -56,4 +56,4 @@ python3 plot_af.py -csv Chr_X_pileup_allele_frequencies.csv -contig X -spline Tr
 ```
 
 ## Example Plot
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/mohamedfaisa1/Detecting-Meiotic-Drive-in-Drosophila-Virilis-from-Pooled-Sequencing-Data/blob/main/data/Chr_4_allele_frequencies.png?raw=true)
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/mohamedfaisa1/Detecting-Meiotic-Drive-in-Drosophila-Virilis-from-Pooled-Sequencing-Data/blob/main/data/Chr_4_allele_frequencies.png?raw=true])
